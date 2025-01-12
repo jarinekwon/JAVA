@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 packages to &apos;modularization_4_service_module/src&apos;&#x0D;&#x0A;- Original project: &apos;modularization_2_service_jar&apos;&#x0D;&#x0A;- Destination element: &apos;modularization_4_service_module/src&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     modularization_2_service_jar/src/com.in28minutes.sorting.algorithm&#x0D;&#x0A;     modularization_2_service_jar/src/com.in28minutes.sorting.util" description="Copy packages" destination="=modularization_4_service_module/src" element1="/src&lt;com.in28minutes.sorting.algorithm" element2="/src&lt;com.in28minutes.sorting.util" flags="589830" fragments="2" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1734023184979" version="1.0"/>
+</session>

@@ -1,0 +1,5 @@
+1733634490277	Extract method 'printBasic'
+1733644205482	Extract method 'nomalSum'
+1733644664648	Extract method 'fpSum'
+1733673292091	Extract local variable 'evenPredicate'
+1733673360779	Extract method 'createEvenPredicate'

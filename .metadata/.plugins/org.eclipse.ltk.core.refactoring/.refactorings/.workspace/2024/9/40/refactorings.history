@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;introduction_to_object_oriented_programming&apos;" deleteContents="true" description="Delete resource &apos;introduction_to_object_oriented_programming&apos;" element1="/introduction_to_object_oriented_programming" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1727588122498"/>
+</session>

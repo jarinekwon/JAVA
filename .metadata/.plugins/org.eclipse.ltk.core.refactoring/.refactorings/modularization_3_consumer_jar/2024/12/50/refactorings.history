@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;com.in28minutes.consumer&apos; to &apos;modularization_5_consumer_module/src&apos;&#x0D;&#x0A;- Original project: &apos;modularization_3_consumer_jar&apos;&#x0D;&#x0A;- Destination element: &apos;modularization_5_consumer_module/src&apos;&#x0D;&#x0A;- Original element: &apos;modularization_3_consumer_jar/src/com.in28minutes.consumer&apos;" description="Copy package" destination="=modularization_5_consumer_module/src" element1="/src&lt;com.in28minutes.consumer" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1734023190704" version="1.0"/>
+</session>
